@@ -1,6 +1,6 @@
 library(truncnorm)
 library(mvtnorm)
-library(mvtnorm)
+
 
 # This is to obtain the intensity of selection for a given proportion (height of the ordinate)
 univariateIntensity <- function (p) {
